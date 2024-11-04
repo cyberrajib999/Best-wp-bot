@@ -87,12 +87,12 @@ module.exports = {
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
-  antilink_values:process.env.ANTILINK_VALUES|| "all",
+  antilink_values:process.env.ANTILINK_VALUES|| "https://,chat.whatsapp.com",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
 
   WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
-  LANG: ( process.env.THEME ||  "SUHAIL"  ).toUpperCase(),
+  LANG: ( process.env.THEME ||  "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"  ).toUpperCase(),
 
 
 
