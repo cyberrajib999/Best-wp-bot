@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/suhailmd-2
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/TgwRyHR/Ephoto360-com-166de101e03cd7.jpg" || "https://i.ibb.co/bH1kbX0/a4c0b1af253197d4837ff6760d5b81c0.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "© SuhailTechInfo" 
+global.caption = process.env.CAPTION || global.caption || "༆-✿CYBER-RAJIB.!!༊࿐" 
 
 
 global.devs = "" // Developer Contact
@@ -72,7 +72,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || "/",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.0.1-developement-x",
-  caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
+  caption : global.caption || "" , //* ✮͢ꓸ⃟ꓸ⃟ꓸ✮͢🩷 ISLAMICK CYBER CHAT ≛⃝🪽⃪𝄞⋆⃝*"),
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
@@ -91,8 +91,8 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
 
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
-  LANG: ( process.env.THEME ||  "SUHAIL"  ).toUpperCase(),
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
+  LANG: ( process.env.THEME ||  "Dark"  ).toUpperCase(),
 
 
 
@@ -131,11 +131,11 @@ fs.watchFile(file, () => { fs.unwatchFile(file);console.log(`Update'${__filename
 
 // ========================= [ Disables in V.1.2.8 ] ===============================\\  
   //style : process.env.STYLE || "2",  // put '1' & "2" here to check bot styles
-  //readmessage:process.env.READ_MESSAGE|| "false",
+  //readmessage:process.env.READ_MESSAGE|| "true",
   //warncount: process.env.WARN_COUNT || 3,
   //userImages:process.env.USER_IMAGES|| "text",  // SET IMAGE AND VIDEO URL FOR BOT MENUS 
   //disablepm: process.env.DISABLE_PM || "false",
-  //MsgsInLog: process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
+  //MsgsInLog: process.env.MSGS_IN_LOG|| "true", // "true"  to see messages , "log" to open logs , "true" to hide logs messages
   //readcmds:process.env.READ_COMMANDS|| "false", 
   //alwaysonline:process.env.WAPRESENCE|| "unavailable", // 'unavailable' | 'online' | 'composing' | 'recording' | 'paused'
   //read_status: process.env.AUTO_READ_STATUS || "false",
