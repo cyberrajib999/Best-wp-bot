@@ -10,7 +10,7 @@
   "__stack":"container",
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",    
+      "description": "مـٰٰ۬͜ـٰـحـمد عــبـدللــہ ャ 🐣🔐",    
       "value": "Suhail-X",
       "required" :true
     },   
@@ -27,7 +27,7 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": "𝐀𝐁𝐃𝐔𝐋𝐋𝐀𝐇-𝐌𝐃-𝐁𝐎𝐓",
       "required" :false,    
       "value": "Suhail-X-Md"
     }, 
