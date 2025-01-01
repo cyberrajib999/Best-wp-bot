@@ -18,8 +18,8 @@ global.DATABASE_URL = process.env.DATABASE_URL || "false" || "mongodb+srv://mohs
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Dhaka";
 global.github=process.env.FACEBOOK || "https://www.facebook.com/cyberrajib";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/ILPujzXlPw34VIebncoVS1";
-global.website=process.env.GURL || "https://chat.whatsapp.com/ILPujzXlPw34VIebncoVS1" ; global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.postimg.cc/fy1QpX6f/ultra.jpg" || "https://i.postimg.cc/fy1QpX6f/ultra.jpg" ; // SET LOGO FOR IMAGE 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Vb1u9SR5a246n08GXL2b";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029Vb1u9SR5a246n08GXL2b" ; global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.postimg.cc/fy1QpX6f/ultra.jpg" || "https://i.postimg.cc/fy1QpX6f/ultra.jpg" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "༆-✿CYBER-RAJIB...!!༊࿐" 
 
 
