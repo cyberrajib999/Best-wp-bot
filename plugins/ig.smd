@@ -10,7 +10,7 @@
 const {cmd , commands} = require('../command')
 
 cmd({
-    pattern: "caption",
+    pattern: "ig",
     desc: "noprefix",
     category: " noprefix",
     react: "🌺",
