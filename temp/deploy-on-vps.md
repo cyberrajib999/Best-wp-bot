@@ -25,8 +25,8 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SuhailTechInfo/Suhail-Md
-      cd Suhail-Md
+      git clone https://github.com/cyberrajib999/Best-wp-bot
+      cd CYBER-RAJIB
       yarn install --network-concurrency 1
       ```
 
@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="01859551262"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
-      OWNER_NAME = "Suhail"
-      PREFIX = .
+      THUMB_IMAGE = "https://i.postimg.cc/C511zH9J/ultra.jpg"
+      OWNER_NAME = "CYBER-RAJIB"
+      PREFIX = /
       WARN_COUNT = 3
       DISABLE_PM = "false"
-      THEME= "SUHAIL"
+      THEME= "Dark"
       MODE = "public"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
@@ -60,7 +60,7 @@
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *CYBER-RAJIB is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Suhail-Md at your own risk by keeping this warning in mind.*
  
