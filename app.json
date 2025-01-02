@@ -1,17 +1,17 @@
 {
-  "name": "suhail-whatsapp-bot@1.0.1",
-  "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
- "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
+  "name": "CYBER-whatsapp-bot@1.0.1",
+  "description": "I am CYBER-RAJIB Whatsapp Chuddy Buddy built in NodeJs to make experience better\n",
+ "logo":"https://i.postimg.cc/C511zH9J/ultra.jpg",
  
-  "old__logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "old__logo": "https://github.com/cyberrajib999/Best-wp-bot/blob/main/lib/assets/CYBER.jpg?raw=true",
+  "keywords": ["whatsappbot", "CYBER", "CYBER bot", "CYBER-RAJIB", "CYBERWhatsaooBot", "CYBERWaBot","CYBER-RAJIB","ISLAMICK-CYBER Whatsapp Bot","multi device"],
+  "success_url": "/cyber/",
   "app_url": "/qr/",
   "__stack":"container",
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail-X",
+      "value": "CYBER-RAJIB",
       "required" :true
     },   
      
@@ -29,12 +29,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Suhail-X-Md"
+      "value": "CYBER-RAJIB"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Asia/Dhaka"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -66,8 +66,8 @@
       "value": "."
     },
     "OWNER_NUMBER": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "description": "The phone numbers of the users who you want to be admin for the bot ( be in international format without + and multiple numbers must be separated by a comma \",\")",
+      "value": "01859551262"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -80,7 +80,7 @@
       "required" :false
     }, 
     "ELEVENLAB_API_KEY": {
-      "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
+      "description": "Put your ElevenLab api key here for Aitts",
       "value": "",
       "required" :false
     }, 
@@ -95,7 +95,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "CYBER-RAJIB",
       "required": false 
     },
     "PACK_AUTHER": {
