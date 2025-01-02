@@ -28,7 +28,6 @@ let dec = ` ["•—»✨「 𝐈 𝐂 𝐂 ｣ ✨«—•\n༆-✿Prefix Event
 "•—»✨「 𝐈 𝐂 𝐂 」  ✨«—•\n  ༆-✿Prefix Event ༊࿐\n╭•┄┅═══❁🌺❁═══┅┄•╮\n\n>🐰✨𝑻𝒉𝒊𝒔 𝒍𝒊𝒏𝒆 𝒊𝒔 𝒇𝒐𝒓 𝒚𝒐𝒖🖤🌸\nwish 🤗\n\nমৃত্যুর কয়েক সেকেন্ড আগে যেন প্রত্যেকটা\nমুসলমানের মুখে\nউচ্চারিত হয় !\nলা ইলাহা ইল্লাল্লাহু\n মুহাম্মাদুর রাসূলুল্লাহ ( সঃ )\n\nআমিন🤲🤲🥰\n\n╰•┄┅═══❁🌺❁═══┅┄•╯\n\n𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭",
 "•—»✨「 𝐈 𝐂 𝐂 」  ✨«—•\n  ༆-✿Prefix Event ༊࿐\n╭•┄┅═══❁🌺❁═══┅┄•╮\n\n ༅༎❥~🦋\n\n༅༎❥━-কালি ছাড়া যেমন কলম 🖊️\nমূল্যহীন🗑️\n\nতেমনি নামাজ ছাড়া মুসলিম মূল্যহীন!!❥༅༎\n\n🖤~🦋\n\n╰•┄┅═══❁🌺❁═══┅┄•╯\n\n𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭",
 "•—»✨「 𝐈 𝐂 𝐂 」  ✨«—•\n  ༆-✿Prefix Event ༊࿐\n╭•┄┅═══❁🌺❁═══┅┄•╮\n\n°\n\n—𝐒𝐮𝐩𝐞𝐫𝐦𝐚𝐧 𝐎𝐟 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝—\n—হযরত মুহাম্মদ (সা:)💚🌼\n\n°\n\n╰•┄┅═══❁🌺❁═══┅┄•╯\n\n𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : 𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭",
-
 "•—»✨「 𝐈 𝐂 𝐂 」  ✨«—•\n  ༆-✿Prefix Event ༊࿐\n╭•┄┅═══❁🌺❁═══┅┄•╮\n\n🦋࿐\n\nহীরার চেয়েও দামি\nহযরত মুহাম্মদ (সাঃ) এর মুখের বাণী🫰🖤\n\n🦋࿐\nসুবহানাল্লাহ-🖤🥀\n\n╰•┄┅═══❁🌺❁═══┅┄•╯\n\n𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : 𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭",
 "•—»✨「 𝐈 𝐂 𝐂 」  ✨«—•\n  ༆-✿Prefix Event ༊࿐\n╭•┄┅═══❁🌺❁═══┅┄•╮\n\n🥀\n- প্রতিশোধ নয়.!🙂💌\n- হ্মমা করাই ইসলামের আদর্শ.!❤️🥰\n\n- হযরত মোহাম্মদ (সাঃ)😍🤎\n\n╰•┄┅═══❁🌺❁═══┅┄•╯\n\n𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : 𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭" 
  ];
@@ -40,14 +39,14 @@ await conn.sendMessage(from,{image:{url: `https://i.imgur.com/KxEXuch.jpeg`},cap
 await conn.sendMessage(from,{image:{url: `https://i.postimg.cc/yxZCwPj1/received-179416495132916.jpg`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://i.postimg.cc/nh4xgMJR/ornamental-arabic-lantern-with-burning-candle-glowing-night-muslim-holy-month-ramadan-kareem-1034-24.jpg`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://i.postimg.cc/8c2N53cf/received-2183981171798286.jpg`},caption:dec},{quoted:mek});
-{url:`https://i.postimg.cc/6QWwyCWc/received-259795433354586.jpg`},caption:dec},{quoted:mak});
-{url: `https://i.postimg.cc/JzWRC9S9/received-317063074088232.jpg`},caption:dec},{quoted:mak});
-{url:`https://i.postimg.cc/5tsJvjjV/received-583147497311518.jpg`},caption:dec},{quoted:mak});
-{url:`https://i.postimg.cc/7ZMwHKkb/received-598373762409967.jpg`},caption:dec},{quoted:mak});
-{url: `https://i.postimg.cc/05SPq6kG/a360f6b18ac94e86a7ba87a884a7d295.jpg`},caption:dec},{quoted:mak});
-{url:`https://i.postimg.cc/DZDKjDqp/received-659497149400143.jpg`},caption:dec},{quoted:mak});
-{url: `https://i.postimg.cc/WpC2XD8p/received-659559285696847.jpg`},caption:dec},{quoted:mak});
-{url:`https://i.postimg.cc/4NcXMJ26/received-819496329472643.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url:`https://i.postimg.cc/6QWwyCWc/received-259795433354586.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url: `https://i.postimg.cc/JzWRC9S9/received-317063074088232.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url:`https://i.postimg.cc/5tsJvjjV/received-583147497311518.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url:`https://i.postimg.cc/7ZMwHKkb/received-598373762409967.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url: `https://i.postimg.cc/05SPq6kG/a360f6b18ac94e86a7ba87a884a7d295.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url:`https://i.postimg.cc/DZDKjDqp/received-659497149400143.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url: `https://i.postimg.cc/WpC2XD8p/received-659559285696847.jpg`},caption:dec},{quoted:mak});
+await conn.sendMessage(from,{image:{url:`https://i.postimg.cc/4NcXMJ26/received-819496329472643.jpg`},caption:dec},{quoted:mak});
 
 }catch(e){
 console.log(e)
